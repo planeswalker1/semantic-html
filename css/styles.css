@@ -68,3 +68,9 @@ figure img {
 .sidebar a {
   color: black;
 }
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
