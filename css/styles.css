@@ -40,7 +40,8 @@ body {
   border-bottom: 2px solid black;
 }
 
-article {
+article,
+.sidebar {
   padding: 10px;
 }
 
@@ -54,4 +55,16 @@ article h1 {
 
 figure img {
   width: 100%;
+}
+
+.sidebar {
+  background-color: #8bc34a;
+}
+
+.sidebar h2 {
+  margin-top: 0;
+}
+
+.sidebar a {
+  color: black;
 }
